@@ -9,19 +9,18 @@ Q1: https://scratch.mit.edu/projects/885175489
 Q2: https://scratch.mit.edu/projects/884481740
 ![Question 2](https://github.com/iamrayyan1/pfFall23/blob/main/images/Question%202.png)
 
+Q3: https://scratch.mit.edu/projects/885185568
+![Question 3](https://github.com/iamrayyan1/pfFall23/blob/main/images/Question%203.png)
 
-Q3: https://github.com/iamrayyan1/pfFall23/blob/main/images/Question%203.png
-https://scratch.mit.edu/projects/885185568
+Q4: https://scratch.mit.edu/projects/885196664
+![Question 04](https://github.com/iamrayyan1/pfFall23/blob/main/images/Question%2004.png)
 
-Q4: https://github.com/iamrayyan1/pfFall23/blob/main/images/Question%2004.png
-https://scratch.mit.edu/projects/885196664
+Q5: https://scratch.mit.edu/projects/885200841
+![Question 05](https://github.com/iamrayyan1/pfFall23/blob/main/images/Question%2005.png)
 
+Q6: https://scratch.mit.edu/projects/885208723
+![Question 06](https://github.com/iamrayyan1/pfFall23/blob/main/images/Question%2006%20(2).png)
 
-Q5: https://github.com/iamrayyan1/pfFall23/blob/main/images/Question%2005.png
-https://scratch.mit.edu/projects/885200841
+Q7: https://scratch.mit.edu/projects/885224864
+![Question 07](https://github.com/iamrayyan1/pfFall23/blob/main/images/Question%2007.png)
 
-Q6: https://github.com/iamrayyan1/pfFall23/blob/main/images/Question%2006%20(2).png
-https://scratch.mit.edu/projects/885208723
-
-Q7: https://github.com/iamrayyan1/pfFall23/blob/main/images/Question%2007.png
-https://scratch.mit.edu/projects/885224864
