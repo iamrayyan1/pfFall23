@@ -1,6 +1,6 @@
 # Rayyan Merchant
 ## 23K-0073
-### I did O/A Levels from The City School. We talked about "RAM".
+### I did my O/A Levels from The City School. We talked about "RAM".
 
 
 Q1: https://scratch.mit.edu/projects/885175489
