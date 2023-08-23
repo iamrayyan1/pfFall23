@@ -4,6 +4,7 @@
 
 
 Q1: https://github.com/iamrayyan1/pfFall23/blob/main/images/Question%201.png
+https://github.com/iamrayyan1/pfFall23/blob/main/images/Question%2004.png?raw=true
 https://scratch.mit.edu/projects/885175489
 
 Q2: https://github.com/iamrayyan1/pfFall23/blob/main/images/Question%202.png
