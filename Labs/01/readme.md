@@ -6,15 +6,16 @@
 Q1: https://scratch.mit.edu/projects/885175489
 ![Question 1](https://github.com/iamrayyan1/pfFall23/assets/142688529/10a63f99-8644-4f2c-9029-320e51f3c717)
 
-Q2: https://github.com/iamrayyan1/pfFall23/blob/main/images/Question%202.png
-https://scratch.mit.edu/projects/884481740
+Q2: https://scratch.mit.edu/projects/884481740
+![Question 2](https://github.com/iamrayyan1/pfFall23/blob/main/images/Question%202.png)
+
 
 Q3: https://github.com/iamrayyan1/pfFall23/blob/main/images/Question%203.png
 https://scratch.mit.edu/projects/885185568
 
 Q4: https://github.com/iamrayyan1/pfFall23/blob/main/images/Question%2004.png
-
 https://scratch.mit.edu/projects/885196664
+
 
 Q5: https://github.com/iamrayyan1/pfFall23/blob/main/images/Question%2005.png
 https://scratch.mit.edu/projects/885200841
