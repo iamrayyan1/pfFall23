@@ -4,7 +4,6 @@
 Q1: https://scratch.mit.edu/projects/886906768
 ![image](https://github.com/iamrayyan1/pfFall23/assets/142688529/3ba96bbc-e363-46dc-8e1e-fb3ae26a7dd2)
 
-
 Q2: https://scratch.mit.edu/projects/886914740
 ![image](https://github.com/iamrayyan1/pfFall23/assets/142688529/ca94764d-c739-4252-b119-0fdf3be2cdd8)
 
@@ -19,5 +18,5 @@ Q5: https://scratch.mit.edu/projects/886927253
 
 Q6: ![image](https://github.com/iamrayyan1/pfFall23/assets/142688529/7a882ce9-6008-4a6e-83b9-a54cb7e5ce09)
 
-
-Q7:
+Q7: https://scratch.mit.edu/projects/887044336
+![image](https://github.com/iamrayyan1/pfFall23/assets/142688529/b23f6f41-1ce9-4720-84b7-141df3df44b9)
