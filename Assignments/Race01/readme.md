@@ -11,3 +11,13 @@ Q3: ![Race01-Question03](https://github.com/iamrayyan1/pfFall23/blob/main/images
 Q4: ![Race01-Question04](https://github.com/iamrayyan1/pfFall23/blob/main/images/Race%2001-Question%2004.png)
 
 Q5: ![Race01-Question05](https://github.com/iamrayyan1/pfFall23/blob/main/images/Race%2001-Question%2005.png)
+
+Q6:
+
+Q7:
+
+Q8: ![image](https://github.com/iamrayyan1/pfFall23/assets/142688529/00c88ecf-77b5-400a-8dff-3102ec6a1948)
+
+Q9:
+
+Q10:
