@@ -12,7 +12,7 @@ Q4: ![Race01-Question04](https://github.com/iamrayyan1/pfFall23/blob/main/images
 
 Q5: ![Race01-Question05](https://github.com/iamrayyan1/pfFall23/blob/main/images/Race%2001-Question%2005.png)
 
-Q6:
+Q6: ![image](https://github.com/iamrayyan1/pfFall23/assets/142688529/b0544681-eb86-4ce5-ba4b-73aafb7d8daa)
 
 Q7:
 
