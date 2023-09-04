@@ -18,7 +18,7 @@ Q7:
 
 Q8: ![image](https://github.com/iamrayyan1/pfFall23/assets/142688529/00c88ecf-77b5-400a-8dff-3102ec6a1948)
 
-Q9:
+Q9: ![image](https://github.com/iamrayyan1/pfFall23/assets/142688529/da92c27b-070b-4d7f-8b05-98af8f776003)
 
 Q10: ![image](https://github.com/iamrayyan1/pfFall23/assets/142688529/5f9e0a1f-2eeb-458e-8173-5303e8d9e877)
 
