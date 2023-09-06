@@ -1,16 +1,16 @@
 #include <stdio.h>
-
  int main()
  {
- int h = 20;
- int l = 10;
- int w = 10;
- int vol = 0;
+    int h,l,w,vol;
  
- vol = h*l*w;
- {
- printf("%d/n" ,vol);
- }
+    printf("Enter Height: ");
+    scanf(" %d",&h );
+    printf("Enter Length: ");
+    scanf(" %d",&l );
+    printf("Enter Width: ");
+    scanf(" %d",&w );
+    vol = h*l*w;
+    printf("Volume of a container is: %d\n" ,vol);
+ 
  return 1;
  }
- 
