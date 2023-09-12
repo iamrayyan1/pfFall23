@@ -17,11 +17,11 @@ int main(void)
 	printf("Enter Person 2 DOB in dd/mm/yyyy: ");
 	scanf("%d/%d/%d", &p2_d, &p2_m, &p2_y);
 	
-	if (p1_y = p2_y)
+	if (p1_y == p2_y)
 	{
-		if (p1_m = p2_m) 
+		if (p1_m == p2_m) 
 		{
-			if (p1_d = p2_d)
+			if (p1_d == p2_d)
 			{
 				printf("Same Age \n");
 			}
@@ -47,9 +47,9 @@ int main(void)
 			{
 				printf("Person 2 is older \n");
 			}
-			else
+		else
 			{
 				printf("Person 1 is older \n");
-		    }
+		        }
 }
 
