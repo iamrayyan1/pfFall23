@@ -16,14 +16,13 @@ int main(void)
   scanf("%d" , &n);
   
   while( i <= n)
-  {
+   {
     printf("Enter Number: ");
     scanf("%d", &num);
     i = i + 1;
-    j = num;
-    j = pow(j, 2);
+    j = num * num;
     sum = sum + j;
-  }
- printf("The sum is: %d\n", num);
+   }
+  printf("The sum is: %d\n", sum);
 return 0;
 }
