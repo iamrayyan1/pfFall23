@@ -38,8 +38,8 @@ int main(void)
 			{
 				printf("Person 2 is older \n");
 			}
-			else
-			{
+		    else
+		    {
 				printf("Person 1 is older \n");
 		    }
 	}
