@@ -16,6 +16,10 @@ Q4: ![image](https://github.com/iamrayyan1/pfFall23/assets/142688529/0def3684-53
 Q5: ![image](https://github.com/iamrayyan1/pfFall23/assets/142688529/c34f1413-e127-4fc7-8f65-04395c0ee682)
 
 Q6:
+![image](https://github.com/iamrayyan1/pfFall23/assets/142688529/9844b451-be56-4704-8fea-b91ca4fd09a1)
+![image](https://github.com/iamrayyan1/pfFall23/assets/142688529/92f2243a-969d-4e3a-820b-091503206dc8)
+
+
 
 
 
