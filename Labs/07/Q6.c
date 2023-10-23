@@ -1,3 +1,10 @@
+/*
+* Programmer: Rayyan Merchant
+* Date: 12th Sept 2023
+* Description: frequency of elements in array
+* Related Files:
+*/
+
 #include <stdio.h>
 
 int main(void) 
