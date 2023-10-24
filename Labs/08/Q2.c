@@ -1,3 +1,10 @@
+/*
+* Programmer: Rayyan Merchant
+* Date: 12th Sept 2023
+* Description: Calculator
+* Related Files:
+*/
+
 #include <stdio.h>
 #include <math.h>
 
