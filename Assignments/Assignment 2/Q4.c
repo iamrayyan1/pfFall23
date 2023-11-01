@@ -1,7 +1,7 @@
 /*
 * Programmer: Rayyan Merchant
-* Date: 12th Sept 2023
-* Description: Swap Integers using Pointers
+* Date: 31st Oct 2023
+* Description: Finding a path in a maze game
 * Related Files:
 */
 
