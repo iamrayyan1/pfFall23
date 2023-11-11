@@ -1,33 +1,65 @@
-#include <stdio.h>
+#include<stdio.h>
 
-int main() 
+int main(void) 
 {
-    int a, b, i, j;
-
+    int numRows, numCols, i, j, rowCounter = 0, colCounter = 0, cellCount = 0;
+    
     printf("Enter the number of rows: ");
-    scanf("%d", &a);
+    scanf("%d", &numRows);
     printf("Enter the number of columns: ");
-    scanf("%d", &b);
+    scanf("%d", &numCols);
     
-    int arr[a][b];
+    int matrix[numRows][numCols];
     
-    printf("\nInput elements in binary matrix(0s and 1s only):\n");
-    for (i = 0; i < a; i++) 
+    printf("\n");
+    
+    for (i = 0; i < numRows; i++) 
 	{
-        for (j = 0; j < b; j++) 
+        for (j = 0; j < numCols; j++) 
 		{
-			printf("\nEnter element in row#%d-column#%d:\n",i+1,j+1);
-            scanf("%d", &arr[i][j]);
-        }
-    }
-    printf("\nMatrix is:\n");
-    for (i = 0; i < a; i++) 
-	{
-        for (j = 0; j < b; j++) 
-		{
-            printf("%d\t", arr[i][j]);
+            do 
+			{
+                printf("Input value (%d, %d): ", i, j);
+                scanf("%d", &matrix[i][j]);
+            } 
+			while (matrix[i][j] != 0 && matrix[i][j] != 1);
         }
         printf("\n");
     }
     
-}//incomplete
+    int level;
+    
+    for (level = 1; level < numRows * numCols; level++) 
+	{
+        for (i = 0; i < numRows; i++) 
+		{
+            for (j = 0; j < numCols; j++) 
+			{
+                if ((matrix[i - 1][j - 1] == level || matrix[i - 1][j - 1] == level + 1) &&
+                    (matrix[i - 1][j] == level || matrix[i - 1][j] == level + 1) &&
+                    (matrix[i][j - 1] == level || matrix[i][j - 1] == level + 1)) 
+				{
+                    matrix[i][j] = level + 1;
+                }
+            }
+        }
+    }
+    
+    int highestLevel = 0;
+    
+    for (i = 0; i < numRows; i++) 
+	{
+        for (j = 0; j < numCols; j++) 
+		{
+            if (highestLevel < matrix[i][j]) 
+			{
+                highestLevel = matrix[i][j];
+            }
+        }
+    }
+    
+    printf("\n");
+    printf("(%dx%d)", highestLevel, highestLevel);
+    
+
+}
