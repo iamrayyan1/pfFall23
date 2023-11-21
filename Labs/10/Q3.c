@@ -1,3 +1,10 @@
+/*
+Name: Rayyan Merchant
+ID:23k-0073
+Description: Printing prime numbers using DMA
+Date:14/11/23
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
