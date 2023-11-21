@@ -1,3 +1,10 @@
+/*
+Name: Rayyan Merchant
+ID:23k-0073
+Description: Printing Function using DMA and Pointers
+Date:14/11/23
+*/
+
 #include <stdio.h>
 
 
