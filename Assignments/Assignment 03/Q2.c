@@ -86,8 +86,9 @@ int calculateSum(struct Department *department)
     return sum;
 }
 
-int main() 
+int main()
 {
+    printf("Rayyan Merchant-23K-0073\n");
     char namePool[20][30];
     generateRandomNames(namePool);
     
